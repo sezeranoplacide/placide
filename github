@@ -1,2 +1,2 @@
 sum=2+5
-print(""sum"")
+print("sum is:",sum)
